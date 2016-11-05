@@ -1,0 +1,32 @@
+/*Header*/
+.header{
+	    background: #18181A;
+}
+.col-lg-2 > span{
+	text-indent: 100%;
+    overflow: hidden;
+    background-image: url(../img/martinDo.png);
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 158px;
+    display: block;
+    margin: 0 auto;
+    float:right;
+}
+.col-lg-5.text-left-header{
+	 padding-right: 0px;
+     padding-left: 0px; 
+}	
+.col-lg-5.text-right-header,.col-lg-5.text-left-header h2{
+	float:right;
+	height: 130px;
+	padding: 45px 0px 0px 0px;
+	color: #c5174a;
+}
+p.text-center{
+	color: #f7f7f7;
+}
+/*Padding, martin*/
+.p-t-15{
+	padding-top: 15px;
+}
